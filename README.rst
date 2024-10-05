@@ -1,6 +1,3 @@
-This library is archived and no longer supported
-=============================================
-
 Introduction
 ============
 
